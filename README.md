@@ -12,5 +12,6 @@ git clone https://github.com/giabaohb48/SpaceShooter.git
 cd SpaceShooter/Build
 
 wine spaceShooter.exe
+
 ``
 
