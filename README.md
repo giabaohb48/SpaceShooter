@@ -1,4 +1,5 @@
-# Game Space Shooter is built by Unity3D
+# Space Shooter
+*Building the game using Unity3D*
 **Start game by running Build/spaceShooter.exe**
 
 Đây là một game 2D được lấy cảm hứng từ những game bắn máy bay pixel.
