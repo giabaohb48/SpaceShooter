@@ -10,6 +10,5 @@ Gameplay với lối chơi đơn giản, mì ăn liền, tuy dễ mà khó, có 
 git clone https://github.com/giabaohb48/SpaceShooter.git
 cd SpaceShooter/Build
 wine spaceShooter.exe
-
 ```
 
